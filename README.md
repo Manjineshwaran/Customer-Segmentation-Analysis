@@ -7,7 +7,7 @@ Impact on Business Goals: By understanding customer segments, Mall can enhance t
 
 Future Work: Additional demographic or behavioral data, such as online browsing history or brand preferences, could further refine these segments.
 
-##Targeted Marketing:
+### Targeted Marketing:
 
 Luxury Seekers (Cluster 1): Focus on high-end products and loyalty programs.
 

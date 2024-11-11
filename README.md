@@ -7,13 +7,18 @@ Impact on Business Goals: By understanding customer segments, Mall can enhance t
 
 Future Work: Additional demographic or behavioral data, such as online browsing history or brand preferences, could further refine these segments.
 
-Targeted Marketing:
+##Targeted Marketing:
 
 Luxury Seekers (Cluster 1): Focus on high-end products and loyalty programs.
+
 Budget-Conscious (Cluster 2): Offer discount campaigns and budget-friendly options.
+
 Young Adults (Cluster 3): Promote trendy items and limited-time offers on social media.
+
 Savers (Cluster 4): Highlight product quality, longevity, and value.
+
 Spontaneous Shoppers (Cluster 5): Implement flash sales and personalized ads for impulse purchases.
+
 # Used Library
 Numpy, Pandas,Matplotlib, Seaborn and Sklearn.
 # Machine Learning Algorithms
